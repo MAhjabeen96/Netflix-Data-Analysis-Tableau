@@ -6,4 +6,6 @@ The primary goal of this project is to leverage Tableau to explore, analyze, and
 
 Dataset
 The dataset for this project can be obtained from Kaggle.com. It contains comprehensive information about Netflix titles, including details like title, type (movie or TV show), release year, country, duration, and more. The dataset is crucial for conducting in-depth analyses and creating informative visualizations.
+## Result
+![Dash](Netflix.png)
 
